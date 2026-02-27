@@ -52,7 +52,7 @@ For each exposure set definition, the intended workflow is:
 
 ```
 Define exposure sets  →  Fit TCPS model  →  Perform matching  →  Analyse matched cohort
-  (RxExSets.R etc.)     (_timeConditionalPS_*.R)  (_Matching_*.R)    (PNU_Analysis.R)
+  (RxExSets.R etc.)     (timeConditionalPS_*.R)  (matching_*.R)    (PNU_Analysis.R)
 ```
 
 ---
